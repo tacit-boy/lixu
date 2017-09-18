@@ -4,6 +4,7 @@
 # date: 2017-09-11
 # 作用: 抓取剧集网页链接并输出
 # 用法：python video_scratch.py <link>
+# 例子：python video_scratch.py http://www.dytt8.net/html/tv/oumeitv/20170603/54148.html
 
 import re
 import sys
